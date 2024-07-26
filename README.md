@@ -8,9 +8,9 @@ Provides an initial understanding of the dataset, including its structure, varia
 Outlines the business context and objectives of the project. It describes the industry, market conditions, and business problems being addressed.
 3. Problem Definition & Planning:
 Details the specific problems identified through the analysis and outlines the planning phase, including goals, hypotheses, and methodologies used to address the business issues.
-**4. Data Cleaning:**
+4. Data Cleaning:
 Describes the process of preparing the data for analysis, including handling missing values, removing duplicates, and other data preprocessing tasks.
-**5. Data Visualization & Analysis:**
+5. Data Visualization & Analysis:
 Presents the visualizations and analytical techniques applied to the data. This section includes charts, graphs, and statistical analyses used to derive insights and findings.
-**6. Recommendation:**
+6. Recommendation:
 Provides actionable recommendations based on the analysis. This section suggests strategies or actions for the business based on the insights gained from the data.
