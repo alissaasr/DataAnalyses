@@ -1,5 +1,5 @@
 # Data Analysis Portfolio
-This repository showcases a portfolio of data analysis projects utilizing various software tools. It includes comprehensive analyses performed using different platforms to demonstrate a broad range of analytical techniques and methodologies. The portfolio aims to provide examples of how diverse software applications can be used to handle, analyze, and interpret data effectively.
+This repository showcases a portfolio of data analysis projects utilizing various software tools. It includes comprehensive analyses conducted with different platforms to illustrate a broad range of analytical techniques and methodologies. The portfolio aims to provide examples of how diverse software applications can be effectively used to handle, analyze, and interpret data.
 ## Capstone Project Data Analytics - RevoU Tech Academy
 Developed an interactive dashboard that visualizes data insights, addressing specific business questions. The dashboard provides comprehensive and actionable data visualizations to support informed decision-making. The project encompasses a comprehensive analysis with the following sections:
 1. Data Overview:
