@@ -15,7 +15,7 @@ Presents the visualizations and analytical techniques applied to the data. This 
 6. Recommendation:
 Provides actionable recommendations based on the analysis. This section suggests strategies or actions for the business based on the insights gained from the data.
 ## Supermarket Sales Dashboard (Power BI)
-The growth of supermarkets in the most populated cities is increasing, and market competition is also high. This dataset represents historical sales data of a supermarket company, recorded across three different branches over three months. The data is sourced from Kaggle.
+The growth of supermarkets in the most populated cities is increasing, and market competition is also high. This dataset represents historical sales data of a supermarket company, recorded across three different branches over three months. The data is sourced from [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
 ### Results of The Dashboard
 The dashboard, created using Power BI, includes several key metrics and visualizations:
 1. Total Products: Displays the total number of products available.
