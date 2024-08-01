@@ -58,9 +58,9 @@ This dashboard provides deep insights into flight delays in the United States. T
 
 - Monthly Airline Delay Percentage: The chart shows the percentage of delays caused by airlines each month. It also helps identify monthly and seasonal trends in flight delays caused by airlines.
 ### Dashboard Usage
-**Airline Management**: To analyze airline performance in terms of punctuality and identify areas for improvement.
-**Passengers**: To understand which cities and airlines experience the most delays.
-**Aviation Regulators**: To monitor and develop policies that can reduce flight delays.
+- **Airline Management**: To analyze airline performance in terms of punctuality and identify areas for improvement.
+- **Passengers**: To understand which cities and airlines experience the most delays.
+- **Aviation Regulators**: To monitor and develop policies that can reduce flight delays.
 ### Conclusion
 The dashboard provides a comprehensive tool to analyze flight delays in the US. By visualizing the data, users can easily identify trends and patterns in flight delays, which in turn can help in better decision-making.
 ### Link Dataset & Dashboard
