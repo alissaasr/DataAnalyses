@@ -36,11 +36,11 @@ The table includes detailed financial metrics for each product line:
 - **Net Revenue**: Revenue after tax deductions.
 - **Profit**: Total profit for each product line.
 - **GPM (Gross Profit Margin)**: Gross profit margin percentage.
+  
 ## Airline Delay Cause Dashboard (Tableau)
 This dashboard provides deep insights into flight delays in the United States. The data is taken from Kaggle and covers the period from January 2017 to July 2022. The dashboard is designed to help users understand flight delay patterns based on various factors such as city, airline, and delay type.
 ### Dashboard Components
-- Airline Delay Bar Chart
-  The bar chart gives an overview of the arrival delays in different cities caused by different airlines.
+- Airline Delay Bar Chart: The bar chart gives an overview of the arrival delays in different cities caused by different airlines.
 
 - Airport Map
   - Displays airport locations in cities across the United States.
@@ -56,15 +56,13 @@ This dashboard provides deep insights into flight delays in the United States. T
   - Weather Delay: Delays caused by weather conditions.
   The table or graph shows the number of each type of delay for the analyzed period, helping to identify the main causes of flight delays.
 
-- Monthly Airline Delay Percentage
-  The chart shows the percentage of delays caused by airlines each month. It also helps identify monthly and seasonal trends in flight delays caused by airlines.
+- Monthly Airline Delay Percentage: The chart shows the percentage of delays caused by airlines each month. It also helps identify monthly and seasonal trends in flight delays caused by airlines.
 ### Dashboard Usage
 **Airline Management**: To analyze airline performance in terms of punctuality and identify areas for improvement.
 **Passengers**: To understand which cities and airlines experience the most delays.
 **Aviation Regulators**: To monitor and develop policies that can reduce flight delays.
 ### Conclusion
 The dashboard provides a comprehensive tool to analyze flight delays in the US. By visualizing the data, users can easily identify trends and patterns in flight delays, which in turn can help in better decision-making.
-**Dataset**
-https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022
-**Dashboard**
-https://public.tableau.com/app/profile/alissa.surayya.rahma/viz/USFlightDelay_17224924279090/USFlightDelay?publish=yes
+### Link Dataset & Dashboard
+- **Dataset**: https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022
+- **Dashboard**: https://public.tableau.com/app/profile/alissa.surayya.rahma/viz/USFlightDelay_17224924279090/USFlightDelay?publish=yes
